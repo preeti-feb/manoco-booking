@@ -29,5 +29,4 @@ No installation or dependencies required — it's a static site.
 
 ## Author
 
-Preeti
-Email: preeti.connection@gmail.com
+Preeti Kumari
